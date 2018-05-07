@@ -1,0 +1,6 @@
+<account><accountNumber>1524048189308</accountNumber><totalOrders>4</totalOrders><totalPriceOfOrders>94.95</totalPriceOfOrders></accountNumber></account>
+<customer><firstName>Londyn</firstName><lastName>Smith</lastName><email>LSmith@gmail.com</email><phoneNumber>329-293-2939</phoneNumber></customer>
+<VasedFlower><orderID>VF28301</orderID><dateOfOrder>05-19-2016</dateOfOrder><pickupDate>05-22-2016</pickupDate><sizeOfOrder>M</sizeOfOrder><message>Happy Birthday</message><orderPrice>28.98</orderPrice></VasedFlower>
+<PottedPlant><orderID>PP12938</orderID><dateOfOrder>04-20-2018</dateOfOrder><pickupDate>04-28-2018</pickupDate><sizeOfOrder>s</sizeOfOrder><message>Get Well Soon</message><orderPrice>19.99</orderPrice><plantType>aloe</plantType></PottedPlant>
+<PottedPlant><orderID>PP88273</orderID><dateOfOrder>06-12-2017</dateOfOrder><pickupDate>06-19-2017</pickupDate><sizeOfOrder>m</sizeOfOrder><message>Happy Summer</message><orderPrice>29.99</orderPrice><plantType>CACTUS</plantType></PottedPlant>
+<BoxOfChocolate><orderID>BC33495</orderID><dateOfOrder>12-21-2017</dateOfOrder><pickupDate>12-23-2017</pickupDate><sizeOfOrder>m</sizeOfOrder><message>Merry Christmas</message><orderPrice>15.99</orderPrice><chocolateType>MILK</chocolateType></BoxOfChocolate>
